@@ -19,3 +19,5 @@ TUYA-CONVERT may work if you are lucky enough to have an old unit that didn't ge
 Make the serial connections and jumper GPIO0 to ground to enable flashing, before you apply power.  Once it's booted you can remove the jumper.
 
 Appears to be almost identical to the [MI-SW001-199](https://templates.blakadder.com/merkury_MI-SW001-199.html)
+
+Newer models may have a WB2S chip instead making it incompatible with Tasmota.
